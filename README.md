@@ -8,12 +8,12 @@ Features
 3. Random Encryption Key Generation: Quickly generate a random encryption key for use in encryption operations.
 
 Dependencies:
-1. To use the application first one has to install Python in their system.
-2. After installing Python few packages have to be installed using the terminal which are listed below:
-a. Cryptography-pip install Cryptography
-b. Tkinter- pip install Tkinter
-c. Pillow - pip install Pillow
-d. Pyperclip - pip install pyperclip
+ To use the application first one has to install Python in their system.
+ After installing Python few packages have to be installed using the terminal which are listed below:
+1. Cryptography-pip install Cryptography
+2. Tkinter- pip install Tkinter
+3. Pillow - pip install Pillow
+4. Pyperclip - pip install pyperclip
 
 Use the GUI to perform the following operations:
 
